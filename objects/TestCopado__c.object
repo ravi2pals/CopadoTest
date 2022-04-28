@@ -176,7 +176,7 @@
         <fullName>Job_Count__c</fullName>
         <externalId>false</externalId>
         <label>Job count</label>
-        <length>50</length>
+        <length>60</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Number</type>
